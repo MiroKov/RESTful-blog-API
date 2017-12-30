@@ -1,13 +1,13 @@
 # RESTful-blog-API
-API for maintaining posts and comments
+API for maintaining posts and comments.
 
 # Installation
 
-Use <i>npm i</i> to install all dependencies.
+Use <strong><i>npm install</i></strong> to install all dependencies.
 
 # Usage
 
-Use <strong>npm start</strong> to start the server.
+Use <strong><i>npm start</i></strong> to start the server.
 
 # Dependencies
 
